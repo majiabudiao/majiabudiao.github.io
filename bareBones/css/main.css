@@ -1,15 +1,15 @@
 p {
-    color: purple;
+    color: #fff;
 }
 
 body {
     front-size: 12px;
-	color: green;
-	background-color: #68728B
+	color: #fff;
+	background-color: #8F939B;
 }
 
 h1 {
-	color: #E4E5E8;
+	color: #fff;
 	text-align: center;
 	border-style: dashed;
 	border-width: 4px;
@@ -17,7 +17,7 @@ h1 {
 	margin-right: 75px;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-color: grey;
+	background-color: #8F939B;
 }
 
 #mainContant{
@@ -44,9 +44,6 @@ nav ul li a{
 	padding-left: 16px;
 	padding-top: 8px;
 	padding-bottom: 8px;
-	border-width: 1px;
-	border-style: solid;
-	
 }
 
 nav ul li a:hover {
