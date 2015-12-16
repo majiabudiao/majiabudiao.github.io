@@ -28,8 +28,8 @@ title{
 }
 
 #mainContant{
-	margin-left: 150px;
-	margin-right: 150px;
+	margin-left: 170px;
+	margin-right: 40px;
 }
 
 .centerMe{
@@ -70,12 +70,12 @@ nav ul{
 	min-height: auto;
 	top: 0px;
 	bottom: 0px;
+	float:left;
 }
 
 img {
 	padding: 50px;
-	image-align: center;
-	}
+}
 
 @media screen and (max-width: 600px) {
 		
