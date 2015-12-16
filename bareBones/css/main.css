@@ -4,7 +4,7 @@ p {
 }
 
 body {
-    front-size: 12px;
+    font-size: 20px;
 	color: #fff;
 	background-color: #8F939B;
 	font-family: 'Indie Flower', cursive;
@@ -13,14 +13,18 @@ body {
 h1 {
 	color: #fff;
 	text-align: center;
-	border-style: dashed;
-	border-width: 4px;
-	margin-left: 10%;
-	margin-right: 10%;
-	padding-top: 5%;
-	padding-bottom: 5%;
+	border-style: solid;
+	border-width: 6px;
+	margin-left: 30%;
+	margin-right: 30%;
+	padding-top: 3%;
+	padding-bottom: 3%;
 	background-color: #8F939B;
 	font-family: 'Indie Flower', cursive;
+}
+
+title{
+	font-size:30px;
 }
 
 #mainContant{
@@ -47,13 +51,13 @@ nav ul li a{
 	padding-left: 16px;
 	padding-top: 8px;
 	padding-bottom: 8px;
+	transition: color 1s;
+	transition: background-color 1s;
 }
 
 nav ul li a:hover {
 	background-color: #4CAF50;
 	color: #fff;
-	
-	
 }
 
 nav ul{
@@ -69,13 +73,12 @@ nav ul{
 }
 
 img {
-
 	padding: 50px;
+	image-align: center;
 	}
 
 @media screen and (max-width: 600px) {
-	
-	
+		
 	nav ul {
 		list-style-type: none;
 		margin: 0;
