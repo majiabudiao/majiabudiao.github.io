@@ -47,12 +47,15 @@ title{
 nav ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
-    width: 0;
-	background-color: grey;
-    min-height: 100%;
-    position: fixed; 
-	font-size: 22px;
+    position: 0;
+    width: 100px;
+    position: fixed;
+    left: 30;
+    margin-left: -45px;
+    background-color: #646568;
+    height: 100%;
+    top: 0;
+	font-size: 24px;
 }
 
 nav ul li{
