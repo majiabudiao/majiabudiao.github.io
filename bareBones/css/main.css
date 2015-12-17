@@ -49,7 +49,7 @@ nav ul {
     margin: 0;
     padding: 0;
     width: 0;
-    background-color: #A7A49D;
+	background-color: grey;
     min-height: 100%;
     position: fixed; 
 	font-size: 22px;
